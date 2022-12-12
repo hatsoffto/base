@@ -1,0 +1,64 @@
+{
+    "common": {
+        "add": "Add",
+        "edit": "Edit",
+        "created": "Created",
+        "published": "Published",
+        "save": "Save",
+        "saved": "Saved",
+        "saving": "Saving",
+        "create": "Create",
+        "creating": "Creating",
+        "saving_failed": "Saving failed",
+        "status": "Status",
+        "view": "View",
+        "delete": "Delete",
+        "cancel": "Cancel"
+    },
+    "auth": {
+        "name": "Name",
+        "password": "Password",
+        "email": "Emailaddress",
+        "login": "Login",
+        "register": "Register",
+        "register-lead": "Already an account?",
+        "login-link": "Click here to login",
+        "login-lead": "New user?",
+        "register-link": "Create your account here",
+        "forgot-password": "Forgot password?",
+        "logout": "Logout",
+        "my-account": "My account",
+        "my-subscriptions": "Subscription",
+        "my-donations": "Donations",
+        "my-invoices": "Invoices",
+        "notification-settings": "Notification settings",
+        "forgot-password-email": "Add your emailaddress to receive your password reset instructions.",
+        "password-reset-sent": "Password reset email has been sent",
+        "send-password": "Send password",
+        "reset-password": "Create password",
+        "reset-password-description": "Create your password here.",
+        "password-has-been-reset": "Your password has been created.",
+        "go-to-login": "Go to login page.",
+        "new-password": "New password",
+        "profile": {
+            "title": "Profile",
+            "description": "Edit your account profile here."
+        },
+        "thumbnail": "Thumbnail",
+        "change-password": {
+            "title": "Create new password",
+            "description": "Create a new password for your account."
+        },
+        "password_confirmation": "Password confirmation"
+    },
+    "file-upload": {
+        "link": "Upload here",
+        "label": "or drag and drop",
+        "description": "PNG, JPG, GIF of {size}"
+    },
+    "notifications": "Notifications",
+    "terms-and-conditions": "Terms and conditions",
+    "privacy-policy": "Privacy policy",
+    "back-home": "Back to home",
+    "subscribe": "Subscribe"
+}

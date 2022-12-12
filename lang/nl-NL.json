@@ -1,0 +1,64 @@
+{
+    "common": {
+        "add": "Toevoegen",
+        "edit": "Bewerken",
+        "created": "Aangemaakt",
+        "published": "Gepubliceerd",
+        "save": "Opslaan",
+        "saved": "Opgeslagen",
+        "saving": "Oplaan...",
+        "create": "Aanmaken",
+        "creating": "Aanmaken...",
+        "saving_failed": "Opslaan mislukt",
+        "status": "Status",
+        "view": "Bekijk",
+        "delete": "Verwijderen",
+        "cancel": "Annuleren"
+    },
+    "auth": {
+        "name": "Naam",
+        "password": "Wachtwoord",
+        "email": "Mailadres",
+        "login": "Inloggen",
+        "register": "Account aanmaken",
+        "register-lead": "Al een account?",
+        "login-link": "Klik hier om in te loggen",
+        "login-lead": "Nieuw hier?",
+        "register-link": "Maak hier een account aan",
+        "forgot-password": "Wachtwoord vergeten?",
+        "logout": "Uitloggen",
+        "my-account": "Mijn account",
+        "my-subscriptions": "Abonnement",
+        "my-donations": "Donaties",
+        "my-invoices": "Facturen",
+        "notification-settings": "Notificatie instellingen",
+        "forgot-password-email": "Vul je mailadres in en ontvang instructies om je wachtwoord opnieuw aan te maken.",
+        "password-reset-sent": "Instructies om je wachtwoord te vernieuwen zijn verzonden.",
+        "send-password": "Nieuw wachtwoord aanvragen",
+        "reset-password": "Wachtwoord aanmaken",
+        "reset-password-description": "Maak een veilig wachtwoord aan om mee in te loggen.",
+        "password-has-been-reset": "Je wachtwoord is aangemaakt.",
+        "go-to-login": "Klik hier om naar inloggen te gaan.",
+        "new-password": "Nieuw wachtwoord",
+        "profile": {
+            "title": "Profiel",
+            "description": "Pas het profiel van jouw gebruikersaccount aan."
+        },
+        "thumbnail": "Afbeelding",
+        "change-password": {
+            "title": "Wachtwoord wijzigen",
+            "description": "Wijzig geregeld je wachtwoord."
+        },
+        "password_confirmation": "Bevestig wachtwoord"
+    },
+    "file-upload": {
+        "link": "Upload hier",
+        "label": "of drag en drop",
+        "description": "PNG, JPG, GIF van {size}"
+    },
+    "notifications": "Notificaties",
+    "terms-and-conditions": "Algemene voorwaarden",
+    "privacy-policy": "Privacy verklaring",
+    "back-home": "Ga naar de homepage",
+    "subscribe": "Word lid"
+}

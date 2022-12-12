@@ -1,0 +1,18 @@
+{
+  "editor.tabSize": 2,
+  "css.lint.unknownAtRules": "ignore",
+  "css.customData": ["./css-data.json"],
+  "editor.bracketPairColorization.enabled": false,
+  "[vue]": {
+      "editor.defaultFormatter": "Vue.volar",
+      "editor.formatOnSave": true,
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "Vue.volar",
+    "editor.formatOnSave": true,
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "Vue.volar",
+    "editor.formatOnSave": true,
+  }
+}
